@@ -12,7 +12,7 @@ I'm an aspiring software developer passionate about building scalable web applic
   - C++ (Primary)
   - C#  
   - Java
-  - Web Development (HTML, CSS, JavaScript – inferred from “Web Development” skill)
+  - Web Development (HTML, CSS, JavaScript)
 
 - **Interests:**  
   - Full-Stack Development  
