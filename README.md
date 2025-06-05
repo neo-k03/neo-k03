@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neo Kubelo
 
-🎓 I'm a Computer Science student currently pursuing a **Bachelor of Computing** at **Belgium Campus iTversity** (2025 - 2029).  
+🎓 I'm a Computer Science student currently pursuing a **Bachelor of Computing** at **Belgium Campus iTversity** (2025 - 2028).  
 
 ## 💻 About Me
 
